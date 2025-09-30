@@ -1,0 +1,517 @@
+"Incident ID","Incident Date",State,"City Or County",Address,"Victims Killed","Victims Injured","Suspects Killed","Suspects Injured","Suspects Arrested",Operations
+3106916,"December 31, 2024",Minnesota,Minneapolis,"3700 block of Emerson Ave N",0,1,0,0,1,N/A
+3106949,"December 31, 2024",Minnesota,Mankato,"20946 549th Ave",0,1,0,0,1,N/A
+3104463,"December 29, 2024",Minnesota,"Saint Paul","306 Larpenteur Ave E",0,2,0,0,1,N/A
+3104369,"December 29, 2024",Minnesota,Minneapolis,"1925 Plymouth Ave N",0,1,0,0,0,N/A
+3104716,"December 29, 2024",Minnesota,"Deer Creek",N/A,1,0,0,0,0,N/A
+3104376,"December 28, 2024",Minnesota,Minneapolis,"3000 block of Columbus Ave",0,1,0,0,0,N/A
+3103243,"December 27, 2024",Minnesota,Minneapolis,"700 block of E Lake St",0,1,0,0,0,N/A
+3101204,"December 24, 2024",Minnesota,"Saint Paul (Vadnais Heights)","4100 block of Centerville Rd",0,1,0,0,0,N/A
+3101049,"December 24, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+3100147,"December 22, 2024",Minnesota,Minneapolis,N/A,0,3,0,0,0,N/A
+3100274,"December 22, 2024",Minnesota,Minneapolis,"36th Ave N and N Penn Ave",0,1,0,0,0,N/A
+3099455,"December 21, 2024",Minnesota,Mankato,"500 block of E Walnut St",1,0,0,0,1,N/A
+3098961,"December 20, 2024",Minnesota,"Saint Paul","1269 Payne Ave",0,1,0,0,0,N/A
+3098902,"December 20, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+3099459,"December 20, 2024",Minnesota,Minneapolis,"3500 block of Queen Ave N",0,1,0,0,0,N/A
+3098727,"December 19, 2024",Minnesota,Minneapolis,"3500 block of N Penn Ave",1,0,0,0,0,N/A
+3097314,"December 18, 2024",Minnesota,Minneapolis,"2900 block of 34th Ave S",0,1,0,0,0,N/A
+3098126,"December 18, 2024",Minnesota,Minneapolis,"3000 block of N Oliver Ave",0,2,0,0,0,N/A
+3097222,"December 18, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+3096209,"December 17, 2024",Minnesota,"Saint Paul","400 N Dewey St",0,1,0,0,0,N/A
+3095982,"December 17, 2024",Minnesota,Minneapolis,"3600 block of N Oliver Ave",0,1,0,0,0,N/A
+3095411,"December 16, 2024",Minnesota,Minneapolis,"1104 E 25th St",1,0,0,0,0,N/A
+3094057,"December 14, 2024",Minnesota,Minneapolis,"Nicollet Ave and E 27th St",0,1,0,0,0,N/A
+3093466,"December 13, 2024",Minnesota,"Saint Paul (Roseville)","2540 Lexington Ave N",1,0,0,0,0,N/A
+3091899,"December 11, 2024",Minnesota,Minneapolis,"36th Ave N and N Penn Ave",0,1,0,0,0,N/A
+3089849,"December 8, 2024",Minnesota,"Minneapolis (Robbinsdale)","4199 46th Ave N",0,2,0,0,0,N/A
+3089762,"December 7, 2024",Minnesota,"Minneapolis (Brooklyn Park)","8081 Brooklyn Blvd",1,1,0,0,1,N/A
+3088558,"December 6, 2024",Minnesota,"Minneapolis (Richfield)","6200 block of 5th Ave S",1,0,0,0,1,N/A
+3088554,"December 5, 2024",Minnesota,Minneapolis,"3900 block of 11th Ave S",0,1,0,0,1,N/A
+3089054,"December 5, 2024",Minnesota,Minneapolis,"5200 block of Circle Down",0,1,0,0,1,N/A
+3085525,"December 2, 2024",Minnesota,"Minneapolis (Robbinsdale)","Lowry Ave and France Ave N",1,0,0,0,2,N/A
+3085925,"December 2, 2024",Minnesota,Minneapolis,"2600 Cedar Ave",1,0,0,0,0,N/A
+3085927,"December 2, 2024",Minnesota,Minneapolis,"Russell Ave N",0,1,0,0,0,N/A
+3085539,"December 1, 2024",Minnesota,Minneapolis,"3316 10th Ave S",1,0,0,0,0,N/A
+3084514,"November 30, 2024",Minnesota,Rochester,"4100 block of Manor Woods Dr NW",1,0,0,0,0,N/A
+3084502,"November 29, 2024",Minnesota,"Saint Paul","1359 University Ave W",1,0,0,0,0,N/A
+3084015,"November 29, 2024",Minnesota,"Saint Paul","444 Maryland Ave W",0,1,0,0,0,N/A
+3083356,"November 28, 2024",Minnesota,Breckenridge,"224 3rd St N",0,0,0,1,0,N/A
+3083831,"November 28, 2024",Minnesota,Minneapolis,"700 block of Emerson Ave N",1,0,0,0,0,N/A
+3080761,"November 25, 2024",Minnesota,Moorhead,"2800 27th Ave S",0,0,0,0,1,N/A
+3080525,"November 25, 2024",Minnesota,Minneapolis,"1818 Lowry Ave N",1,0,0,0,0,N/A
+3080028,"November 24, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+3080751,"November 24, 2024",Minnesota,Rochester,"5100 block of 51st St SW",0,1,0,0,0,N/A
+3080228,"November 24, 2024",Minnesota,"Saint Paul","900 block of Jessamine Ave E",0,1,0,0,0,N/A
+3079966,"November 23, 2024",Minnesota,Minneapolis,"15th Ave S and E Lake St",0,1,0,0,0,N/A
+3079069,"November 23, 2024",Minnesota,Minneapolis,"2400 block of 17th Ave S",1,0,0,0,0,N/A
+3079074,"November 23, 2024",Minnesota,Minneapolis,"Lowry Ave N and Fremont Ave N",0,1,0,0,0,N/A
+3078520,"November 22, 2024",Minnesota,"Saint Paul","600 block of Aurora Ave",1,0,0,0,3,N/A
+3078538,"November 22, 2024",Minnesota,"Minneapolis (New Hope)","8230 47th Ave N",0,0,0,0,1,N/A
+3077627,"November 21, 2024",Minnesota,Minneapolis,"13th Ave SE and 7th St SE",0,1,0,0,0,N/A
+3078581,"November 21, 2024",Minnesota,Rochester,"1st Ave SE and 10th St SE",1,0,0,0,0,N/A
+3076776,"November 19, 2024",Minnesota,"Saint Paul","900 block of Westminster St",0,1,0,0,0,N/A
+3076067,"November 19, 2024",Minnesota,"Minneapolis (Brooklyn Park)","6232 65th Ave N",0,1,0,0,1,N/A
+3076129,"November 19, 2024",Minnesota,Minneapolis,"2500 block of Ogema Pl",1,0,0,0,0,N/A
+3074818,"November 18, 2024",Minnesota,Minneapolis,"2000 block of Cedar Ave",0,1,0,0,0,N/A
+3074291,"November 17, 2024",Minnesota,"Red Wing","West Ave and Putnam Ave",1,0,0,0,1,N/A
+3073962,"November 17, 2024",Minnesota,Minneapolis,"118 N 4th St",0,3,0,0,0,N/A
+3073623,"November 16, 2024",Minnesota,"Saint Paul","1900 block of Wilson Ave",0,1,0,0,0,N/A
+3072989,"November 15, 2024",Minnesota,Minneapolis,"N 35th Ave and N Penn Ave",0,1,0,0,0,N/A
+3073630,"November 15, 2024",Minnesota,"Pine City","57000 block of Barn Springs Rd",1,0,0,0,1,N/A
+3071316,"November 13, 2024",Minnesota,Minneapolis,"2500 block of 16th Ave S",0,1,0,0,0,N/A
+3070339,"November 12, 2024",Minnesota,Minneapolis,"2000 block of 5th Ave S",0,1,0,0,0,N/A
+3070149,"November 12, 2024",Minnesota,Minneapolis,"W Lake St and Aldrich Ave S",0,1,0,0,0,N/A
+3068824,"November 10, 2024",Minnesota,"Saint Paul (Vadnais Heights)","Arcade St S and W Berwood Ave",0,1,0,0,0,N/A
+3069389,"November 10, 2024",Minnesota,"Minneapolis (Columbia Heights)","1150 42nd Ave NE",0,2,0,0,0,N/A
+3068831,"November 9, 2024",Minnesota,Perley,N/A,0,1,0,0,0,N/A
+3068544,"November 9, 2024",Minnesota,"Saint Paul","Bay St and Watson Ave",0,0,1,0,0,N/A
+3067740,"November 9, 2024",Minnesota,Glyndon,"4600 block of 90th Ave N",1,0,0,0,0,N/A
+3070290,"November 8, 2024",Minnesota,"Saint Joseph","1300 Jade Rd",0,0,0,0,1,N/A
+3066877,"November 8, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+3067727,"November 8, 2024",Minnesota,Minneapolis,"2200 block of Cedar Ave S",0,2,0,0,0,N/A
+3066278,"November 7, 2024",Minnesota,Duluth,"6009 Tacony St",4,0,1,0,0,N/A
+3065784,"November 6, 2024",Minnesota,Minneapolis,"1200 block of N 12th Ave",0,1,0,0,0,N/A
+3065762,"November 6, 2024",Minnesota,"Saint Paul","N Frank St and Ross Ave",0,2,0,0,0,N/A
+3065672,"November 6, 2024",Minnesota,Minneapolis,"2700 block of N Penn Ave",0,1,0,0,0,N/A
+3065364,"November 6, 2024",Minnesota,Minneapolis,"N 33rd Ave and N Penn Ave",0,1,0,0,0,N/A
+3064720,"November 5, 2024",Minnesota,"Saint Paul","University Ave W and Rice St",1,0,0,0,2,N/A
+3064643,"November 5, 2024",Minnesota,Minneapolis,"2700 block of Lyndale Ave S",0,1,0,0,0,N/A
+3064637,"November 5, 2024",Minnesota,Minneapolis,"2401 Ferrant Pl",1,0,0,0,1,N/A
+3064655,"November 4, 2024",Minnesota,"Saint Paul","500 block of Front Ave",1,0,0,0,1,N/A
+3063530,"November 3, 2024",Minnesota,Minneapolis,"315 N 1st Ave",0,1,0,0,0,N/A
+3063215,"November 2, 2024",Minnesota,Minneapolis,"3600 block of Fremont Ave N",0,1,0,0,0,N/A
+3066339,"November 2, 2024",Minnesota,"Anoka (Oak Grove)","Dakota St NW",0,1,0,0,1,N/A
+3062029,"November 1, 2024",Minnesota,Minneapolis,"36th Ave N and N Penn Ave",0,1,0,0,0,N/A
+3061803,"November 1, 2024",Minnesota,Brainerd,"15000 block of Loerch Rd NE",1,0,0,0,1,N/A
+3061871,"November 1, 2024",Minnesota,Minneapolis,"1235 4th St SE",0,3,0,0,0,N/A
+3061177,"October 31, 2024",Minnesota,Minneapolis,"3000 Grand Ave S",0,1,0,0,0,N/A
+3060483,"October 30, 2024",Minnesota,"Saint Paul","Hazelwood St and Reaney Ave E",0,1,0,0,0,N/A
+3060480,"October 30, 2024",Minnesota,"Saint Paul","899 Rice St",1,0,0,0,1,N/A
+3059185,"October 29, 2024",Minnesota,Minneapolis,"3200 block of N Lyndale Ave",0,1,0,0,0,N/A
+3058247,"October 28, 2024",Minnesota,Minneapolis,"3500 block of Columbus Ave",0,1,0,1,1,N/A
+3057546,"October 27, 2024",Minnesota,"North Branch","39200 block of Keystone Ave",0,1,0,0,0,N/A
+3058521,"October 27, 2024",Minnesota,Willmar,"E 15th Ave NW and 1st St N",0,1,0,0,2,N/A
+3189029,"October 27, 2024",Minnesota,Rochester,N/A,0,1,0,0,1,N/A
+3057363,"October 27, 2024",Minnesota,Minneapolis,"4400 block of Snelling Ave",3,0,0,1,1,N/A
+3056596,"October 26, 2024",Minnesota,Minneapolis,"E 21st St and S 15th Ave",1,2,0,0,0,N/A
+3055570,"October 24, 2024",Minnesota,Minneapolis,"E 27th St and Park Ave",0,1,0,0,0,N/A
+3058334,"October 24, 2024",Minnesota,"Minneapolis (New Hope)","7300 block of Bass Lake Rd",1,0,0,0,1,N/A
+3054758,"October 23, 2024",Minnesota,"Saint Paul","1045 Hudson Rd",0,1,0,0,0,N/A
+3054521,"October 23, 2024",Minnesota,Minneapolis,"3531 Grand Ave S",0,1,0,0,0,N/A
+3053592,"October 22, 2024",Minnesota,"Lake Lillian","MN-7 and 150th St SE",1,1,0,0,1,N/A
+3052659,"October 21, 2024",Minnesota,Minneapolis,"2318 Jefferson St NE",1,0,0,0,0,N/A
+3052963,"October 21, 2024",Minnesota,Minneapolis,"2200 block of E Lake St",0,1,0,0,0,N/A
+3051915,"October 20, 2024",Minnesota,Minneapolis,"3601 N Penn Ave",0,1,0,0,0,N/A
+3051919,"October 20, 2024",Minnesota,Minneapolis,"700 NE Lowry Ave",0,2,0,0,0,N/A
+3051385,"October 19, 2024",Minnesota,Minneapolis,"2100 block of E Hennepin Ave",0,1,0,0,1,N/A
+3051355,"October 19, 2024",Minnesota,Minneapolis,"1709 25th Ave N",1,0,0,0,0,N/A
+3051587,"October 19, 2024",Minnesota,"Saint Paul","139 Sycamore St E",1,1,0,0,0,N/A
+3059983,"October 19, 2024",Minnesota,"Saint Cloud","Rivercrest Dr",0,1,0,0,1,N/A
+3049854,"October 17, 2024",Minnesota,Winona,"300 block of W 10th St",0,1,0,0,1,N/A
+3047526,"October 14, 2024",Minnesota,"Saint Paul","E Wheelock Pkwy and Jackson St",1,0,0,0,1,N/A
+3047502,"October 14, 2024",Minnesota,Minneapolis,"15 E Grant St",0,1,0,0,0,N/A
+3047128,"October 14, 2024",Minnesota,Minneapolis,"Hennepin Ave and W Franklin Ave",0,1,0,0,0,N/A
+3046709,"October 13, 2024",Minnesota,"Saint Paul","1715 7th St W",0,1,0,0,1,N/A
+3046773,"October 13, 2024",Minnesota,Foley,"9900 block of 95th Ave NE",0,2,0,0,1,N/A
+3045808,"October 12, 2024",Minnesota,"Minneapolis (Brooklyn Park)","7900 block of Lee Ave N",1,0,0,0,1,N/A
+3046679,"October 12, 2024",Minnesota,"Saint Paul","N Woodbridge St and W Wheelock Pkwy",1,0,0,0,1,N/A
+3045810,"October 12, 2024",Minnesota,Minneapolis,"29th St W and Pilsbury Ave",0,1,0,0,0,N/A
+3044822,"October 10, 2024",Minnesota,Minneapolis,"4200 block of N Penn Ave",1,0,0,0,0,N/A
+3043909,"October 9, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+3042383,"October 7, 2024",Minnesota,Calumet,"1020 Gary St",0,2,0,0,1,N/A
+3042311,"October 7, 2024",Minnesota,"Saint Paul","390 Maryland Ave E",0,1,0,0,0,N/A
+3043038,"October 7, 2024",Minnesota,"Saint Paul","Rice St and Geranium Ave W",0,1,0,0,0,N/A
+3041676,"October 6, 2024",Minnesota,Rosemount,"16200 block of Florida Way",0,2,0,0,0,N/A
+3041154,"October 5, 2024",Minnesota,"Minneapolis (Robbinsdale)",N/A,0,1,0,0,0,N/A
+3042754,"October 5, 2024",Minnesota,Hopkins,"900 block of 6th St S",0,1,0,0,0,N/A
+3040553,"October 4, 2024",Minnesota,"Saint Paul","900 block of Dale St N",0,1,0,0,0,N/A
+3040434,"October 4, 2024",Minnesota,"Saint Paul","500 block of Hatch Ave W",0,1,0,0,0,N/A
+3041161,"October 4, 2024",Minnesota,Minneapolis,"3300 Central Ave NE",1,0,0,0,0,N/A
+3041134,"October 4, 2024",Minnesota,Minneapolis,"2900 block of Park Ave",0,1,0,0,0,N/A
+3039642,"October 2, 2024",Minnesota,"Saint Cloud","1700 block of Casselberry Rd",0,0,1,0,0,N/A
+3038335,"October 1, 2024",Minnesota,"Saint Paul","4th St E and Commercial St",0,1,0,0,0,N/A
+3037325,"September 30, 2024",Minnesota,Minneapolis,"1615 S 4th St",0,1,0,0,0,N/A
+3037323,"September 30, 2024",Minnesota,Minneapolis,"200 block of Emerson Ave N",0,1,0,0,0,N/A
+3039077,"September 30, 2024",Minnesota,"Saint Paul","1428 7th St E",0,1,0,0,1,N/A
+3036456,"September 29, 2024",Minnesota,"Saint Paul (Eagan)","1325 Town Centre Dr",0,1,0,0,0,N/A
+3036300,"September 27, 2024",Minnesota,"Saint Paul","400 block of Smith Ave",1,0,0,0,0,N/A
+3036290,"September 27, 2024",Minnesota,Minneapolis,"2200 block of N 6th St",0,1,0,0,0,N/A
+3036286,"September 27, 2024",Minnesota,Minneapolis,"5100 block of Fremont Ave N",0,2,0,0,0,N/A
+3111157,"September 27, 2024",Minnesota,"Minneapolis (Coon Rapids)","113th Ave NW and Robinson Dr",0,1,0,0,1,N/A
+3034861,"September 26, 2024",Minnesota,Minneapolis,"3200 block of 29th Ave S",0,1,0,0,0,N/A
+3035612,"September 25, 2024",Minnesota,"Minneapolis (Brooklyn Park)","7300 Brooklyn Blvd",0,0,0,0,1,N/A
+3034790,"September 25, 2024",Minnesota,"Saint Paul","255 E Kellogg Blvd",1,0,1,0,0,N/A
+3033767,"September 25, 2024",Minnesota,Minneapolis,"12th Ave S and E Lake St",0,1,0,0,1,N/A
+3033255,"September 24, 2024",Minnesota,Minneapolis,"2000 block of Russell Ave N",0,1,0,0,0,N/A
+3067732,"September 24, 2024",Minnesota,Becker,"16924 67th St SE",1,0,1,0,0,N/A
+3032021,"September 22, 2024",Minnesota,Minneapolis,"4801 S Minnehaha Dr",0,1,0,0,0,N/A
+3031359,"September 21, 2024",Minnesota,"Saint Paul","800 block of Rice St",0,1,0,0,0,N/A
+3030433,"September 21, 2024",Minnesota,"Minneapolis (Brooklyn Park)","8400 block of Adair Ave N",1,0,0,0,1,N/A
+3029992,"September 21, 2024",Minnesota,Minneapolis,"10 S 5th St",2,3,0,0,1,N/A
+3030000,"September 21, 2024",Minnesota,Minneapolis,"5415 Nicollet Ave",0,2,0,0,0,N/A
+3029998,"September 21, 2024",Minnesota,Minneapolis,"3000 block of Lyndale Ave S",0,1,0,0,0,N/A
+3032973,"September 18, 2024",Minnesota,"Minneapolis (New Hope)","6000 block of Quebec Ave N",1,0,0,0,1,N/A
+3027705,"September 18, 2024",Minnesota,"South Saint Paul","2200 block of Southview Blvd",0,1,0,0,0,N/A
+3027735,"September 18, 2024",Minnesota,Minneapolis,"17th Ave S and E 26th St",2,2,0,0,1,N/A
+3027743,"September 17, 2024",Minnesota,"Saint Paul","1495 Rice St",0,1,0,0,1,N/A
+3102428,"September 17, 2024",Minnesota,Minneapolis,"N 26th Ave and N Sheridan Ave",1,0,0,0,1,N/A
+3026437,"September 17, 2024",Minnesota,"Saint Paul","1222 University Ave W",1,0,0,0,1,N/A
+3025911,"September 16, 2024",Minnesota,"Saint Paul","2500 block of University Ave W",0,1,0,0,0,N/A
+3025903,"September 16, 2024",Minnesota,Minneapolis,"N 5th St and Hennepin Ave",0,1,0,0,1,N/A
+3025587,"September 16, 2024",Minnesota,Minneapolis,"3000 block of N Penn Ave",0,1,0,0,0,N/A
+3024849,"September 15, 2024",Minnesota,Boyd,N/A,0,0,0,1,0,N/A
+3025779,"September 15, 2024",Minnesota,"Saint Cloud","700 block of 6th Ave S",0,1,0,0,0,N/A
+3025590,"September 15, 2024",Minnesota,Minneapolis,"15th Ave S  and E Lake St",0,2,0,0,0,N/A
+3035600,"September 13, 2024",Minnesota,Minneapolis,"640 E Lake St",0,2,0,0,3,N/A
+3023101,"September 13, 2024",Minnesota,Minneapolis,"202 101st Ave NW",0,1,0,0,0,N/A
+3021572,"September 11, 2024",Minnesota,Minneapolis,"3200 block of Blaisdell Ave",0,1,0,0,1,N/A
+3022400,"September 11, 2024",Minnesota,Minneapolis,"N Girard Ave and N 16th Ave",0,1,0,0,0,N/A
+3021399,"September 11, 2024",Minnesota,Minneapolis,"2400 block of 15th Ave S",0,1,0,0,0,N/A
+3020204,"September 10, 2024",Minnesota,"Saint Paul","1375 Maryland Ave E",1,0,0,0,1,N/A
+3020424,"September 10, 2024",Minnesota,"Saint Paul","400 block of Maryland Ave E",0,2,0,0,0,N/A
+3020390,"September 10, 2024",Minnesota,Minneapolis,"2500 block of Bloomington Ave",0,1,0,0,0,N/A
+3021461,"September 9, 2024",Minnesota,"Saint Cloud","3316 3rd St N",0,1,0,0,0,N/A
+3019155,"September 9, 2024",Minnesota,Minneapolis,"E 25th St and 17th Ave S",0,1,0,0,0,N/A
+3019125,"September 9, 2024",Minnesota,Minneapolis,"S 4th St and Chicago Ave",0,1,0,0,0,N/A
+3017754,"September 7, 2024",Minnesota,Minneapolis,"4052 Minnehaha Ave",0,0,0,1,1,N/A
+3017768,"September 6, 2024",Minnesota,Winona,"I-90 and MN-43",0,0,1,0,0,N/A
+3017083,"September 6, 2024",Minnesota,Minneapolis,"4700 block of S 28th Ave",0,1,0,0,0,N/A
+3017088,"September 5, 2024",Minnesota,Minneapolis,"1100 block of E Lake St",0,1,0,0,0,N/A
+3016501,"September 4, 2024",Minnesota,Minneapolis,"Portland Ave and E 15th St",1,0,0,0,0,N/A
+3015795,"September 4, 2024",Minnesota,Minneapolis,"W Franklin Ave and Nicollet Ave",0,2,0,0,0,N/A
+3014277,"September 3, 2024",Minnesota,Minneapolis,"16 E 19th St",1,0,0,0,1,N/A
+3012882,"September 2, 2024",Minnesota,Minneapolis,"13th Ave S and E Lake St",1,0,0,0,0,N/A
+3014164,"September 2, 2024",Minnesota,Minneapolis,"3200 block of 2nd Ave S",0,1,0,0,0,N/A
+3013875,"September 2, 2024",Minnesota,"Saint Paul","1085 Snelling Ave N",0,3,0,0,2,N/A
+3016452,"September 1, 2024",Minnesota,Outing,"Woods Bay Dr NE",0,1,0,0,1,N/A
+3012119,"September 1, 2024",Minnesota,Minneapolis,"400 block of N Oliver Ave",0,1,0,0,0,N/A
+3012112,"August 31, 2024",Minnesota,Minneapolis,"2900 block of Grand Ave S",1,1,0,0,0,N/A
+3011430,"August 31, 2024",Minnesota,Minneapolis,"700 block of E 16th St",0,1,0,0,0,N/A
+3011428,"August 31, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+3010531,"August 30, 2024",Minnesota,Burnsville,"12100 River Hills Dr",0,5,0,0,0,N/A
+3011138,"August 30, 2024",Minnesota,Minneapolis,"Lake St and Park Ave",1,2,0,0,0,N/A
+3009830,"August 28, 2024",Minnesota,Minneapolis,"1530 E Franklin Ave",0,2,0,0,0,N/A
+3007036,"August 27, 2024",Minnesota,Minneapolis,"50 S 5th St",0,1,0,0,1,N/A
+3007412,"August 27, 2024",Minnesota,"Saint Paul","1000 block of Westminster St",0,1,0,0,0,N/A
+3008334,"August 25, 2024",Minnesota,Farmington,"210th St E and Clayton Ave",1,0,1,0,0,N/A
+3004588,"August 24, 2024",Minnesota,Duluth,"119 E 3rd St",0,1,0,1,1,N/A
+3004600,"August 24, 2024",Minnesota,Minneapolis,"3400 block of N Logan Ave",1,0,0,0,0,N/A
+3002961,"August 22, 2024",Minnesota,Fosston,"35097 420th Ave SE",0,1,0,0,0,N/A
+3003037,"August 22, 2024",Minnesota,Minneapolis,"414 E Diamond Lake Rd",0,2,0,0,0,N/A
+3002058,"August 21, 2024",Minnesota,Hibbing,"520 E 13th St",0,1,0,0,1,N/A
+3000739,"August 20, 2024",Minnesota,Minneapolis,"221 W Lake St",0,1,0,0,0,N/A
+2999953,"August 19, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2999963,"August 19, 2024",Minnesota,Minneapolis,"1729 N Lyndale Ave",0,1,0,0,1,N/A
+2999677,"August 19, 2024",Minnesota,Minneapolis,"E 33rd St and 3rd Ave S",1,0,0,0,1,N/A
+2998510,"August 18, 2024",Minnesota,Minneapolis,"1200 block of W Broadway Ave",0,4,0,0,0,N/A
+2998534,"August 18, 2024",Minnesota,"Saint Paul","110 block of Arlington Ave",0,1,0,0,0,N/A
+2997327,"August 16, 2024",Minnesota,Minneapolis,"2929 Hennepin Ave S",0,1,0,0,0,N/A
+2997363,"August 15, 2024",Minnesota,"Saint Paul","University Ave W and Snelling Ave",0,1,0,0,0,N/A
+2996865,"August 15, 2024",Minnesota,"Saint Paul","Beech St and N Mendota St",0,1,0,0,0,N/A
+2996250,"August 15, 2024",Minnesota,Minneapolis,"E Lake St and 12th Ave S",1,0,0,0,1,N/A
+2996857,"August 15, 2024",Minnesota,"Saint Paul (Maplewood)","2600 block of Elm St",1,0,0,0,0,N/A
+2994308,"August 13, 2024",Minnesota,"Minneapolis (Blaine)","200 block of Territorial Rd NE",1,0,1,0,0,N/A
+2994418,"August 13, 2024",Minnesota,Minneapolis,"NE 15th Ave and Monroe St NE",0,1,0,0,1,N/A
+2995108,"August 13, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2993307,"August 11, 2024",Minnesota,"Saint Paul","80 block of Cook Ave W",0,1,0,0,1,N/A
+2991870,"August 10, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2991673,"August 10, 2024",Minnesota,Frazee,"30397 US-10",1,0,0,0,1,N/A
+2991092,"August 9, 2024",Minnesota,Minneapolis,"2600 W Broadway",0,1,0,0,0,N/A
+2989673,"August 7, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2988613,"August 6, 2024",Minnesota,Minneapolis,"3400 block of Fremont Ave N",0,1,0,0,0,N/A
+2986890,"August 4, 2024",Minnesota,Minneapolis,"N 5th St and Hennepin Ave",0,1,0,0,2,N/A
+2986929,"August 4, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2986097,"August 3, 2024",Minnesota,Minneapolis,"W 27th St and Blaisdell Ave",0,1,0,0,0,N/A
+2985939,"August 3, 2024",Minnesota,Minneapolis,"200 block of Washington Ave N",0,3,0,0,0,N/A
+2985509,"August 2, 2024",Minnesota,Minneapolis,"5700 block of 33rd Ave S",0,1,0,0,0,N/A
+2985525,"August 2, 2024",Minnesota,Akeley,"MN-34 and 285th Ave",0,1,0,0,1,N/A
+2985944,"August 2, 2024",Minnesota,Minneapolis,"2600 block of Newton Ave N",0,2,0,0,0,N/A
+2983708,"July 31, 2024",Minnesota,"Minneapolis (Brooklyn Center)",N/A,0,1,0,0,0,N/A
+2983969,"July 31, 2024",Minnesota,"Saint Paul","Charles Ave and Galtier St",1,0,0,0,0,N/A
+2983718,"July 31, 2024",Minnesota,Minneapolis,"2600 block of 3rd Ave S",0,1,0,0,0,N/A
+2983105,"July 30, 2024",Minnesota,"Saint Paul","800 block of 4th St E",0,1,0,0,0,N/A
+2983087,"July 30, 2024",Minnesota,Minneapolis,"2606 N Penn Ave",0,1,0,0,0,N/A
+2981459,"July 29, 2024",Minnesota,"Minneapolis (Brooklyn Park)","5700 block of 84th 1/2 Ave N",0,1,0,0,0,N/A
+2981174,"July 28, 2024",Minnesota,Minneapolis,"N 16th Ave and N Penn Ave",0,1,0,0,0,N/A
+2980910,"July 28, 2024",Minnesota,Minneapolis,"3200 block of N Penn Ave",1,0,0,0,0,N/A
+2980969,"July 27, 2024",Minnesota,Minneapolis,"2600 block of Cedar Ave S",0,1,0,0,0,N/A
+2981817,"July 27, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2980346,"July 27, 2024",Minnesota,Minneapolis,"2000 block of 3rd Ave S",1,0,0,0,0,N/A
+2980326,"July 27, 2024",Minnesota,"Saint Paul","University Ave W and Snelling Ave N",0,1,0,0,0,N/A
+2979770,"July 26, 2024",Minnesota,Minneapolis,"3400 block of N Penn Ave",0,1,0,0,0,N/A
+2979763,"July 26, 2024",Minnesota,Minneapolis,"1900 block of N Oliver Ave",0,1,0,0,0,N/A
+2979612,"July 26, 2024",Minnesota,Minneapolis,"214 Oak Grove St",0,1,0,0,1,N/A
+2980131,"July 26, 2024",Minnesota,Minneapolis,"Camden Ave N and 48th Ave N",0,1,0,0,0,N/A
+2979777,"July 26, 2024",Minnesota,"Minneapolis (Brooklyn Park)","4600 95th Ave N",0,1,0,0,0,N/A
+2981856,"July 25, 2024",Minnesota,Minneapolis,"3200 block of Penn Ave N",0,1,0,0,0,N/A
+2979822,"July 25, 2024",Minnesota,Minneapolis,"1504 E 25th St",0,1,0,0,0,N/A
+2978793,"July 25, 2024",Minnesota,Minneapolis,"Clinton Ave and E 31st St",1,0,0,0,0,N/A
+2977214,"July 24, 2024",Minnesota,Moorhead,"900 block of 18th St S",1,0,0,0,1,N/A
+2977439,"July 24, 2024",Minnesota,Minneapolis,"W 29th St and Dupont Ave S",0,1,0,0,0,N/A
+2976610,"July 23, 2024",Minnesota,Minneapolis,"904 W Broadway",0,1,0,0,0,N/A
+2978787,"July 23, 2024",Minnesota,"Mankato (North Mankato)","1620 Village Ct",1,0,0,0,1,N/A
+2972710,"July 19, 2024",Minnesota,Minneapolis,"N 21st Ave and N Upton Ave",1,0,0,0,0,N/A
+2973179,"July 19, 2024",Minnesota,Minneapolis,"1300 W Lake St",0,1,0,0,2,N/A
+2975570,"July 18, 2024",Minnesota,Minnetonka,"12200 block of Minnetonka Blvd",1,0,1,0,0,N/A
+2971828,"July 17, 2024",Minnesota,Minneapolis,"600 block of Nicollet Mall",0,2,0,0,0,N/A
+2971844,"July 17, 2024",Minnesota,Minneapolis,"Nicollet Mall and S 7th St",0,1,0,0,0,N/A
+2970074,"July 16, 2024",Minnesota,Minneapolis,"2800 block of Delaware St SE",0,1,0,0,0,N/A
+2969835,"July 15, 2024",Minnesota,Minneapolis,"16th Ave S and E Franklin Ave",1,5,0,0,0,N/A
+2968372,"July 14, 2024",Minnesota,Minneapolis,"2513 Central Ave NE",1,2,0,0,2,N/A
+2967698,"July 13, 2024",Minnesota,"Saint Paul","900 Marion St",0,1,0,0,1,N/A
+2967853,"July 13, 2024",Minnesota,"Saint Paul","Case Ave E and Walsh St",0,1,0,0,0,N/A
+2965891,"July 10, 2024",Minnesota,"Saint Cloud","423 E St Germain St",0,1,0,0,0,N/A
+2977412,"July 9, 2024",Minnesota,Burnsville,"Keating Ct",1,0,0,0,1,N/A
+2964109,"July 9, 2024",Minnesota,Minneapolis,"220 block of Oak Grove St",0,1,0,0,0,N/A
+2963316,"July 8, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2962791,"July 8, 2024",Minnesota,Minneapolis,"424 Hennepin Ave",0,3,0,0,0,N/A
+2963833,"July 8, 2024",Minnesota,Minneapolis,"2000 block of Emerson Ave N",1,0,0,0,0,N/A
+2963156,"July 8, 2024",Minnesota,Minneapolis,"N 22nd Ave and Fremont Ave N",0,1,0,0,0,N/A
+2963165,"July 8, 2024",Minnesota,Minneapolis,"E Lake St and Hiawatha Ave",0,1,0,0,0,N/A
+2962248,"July 7, 2024",Minnesota,Minneapolis,"E 27th St and Nicollet Ave",1,0,0,0,1,N/A
+2962638,"July 7, 2024",Minnesota,Minneapolis,"3807 Fremont Ave N",2,0,0,0,0,N/A
+2961028,"July 6, 2024",Minnesota,Minneapolis,"2200 block of 29th Ave N",0,1,0,0,0,N/A
+2960277,"July 5, 2024",Minnesota,"Saint Paul","900 block of Hatch Ave",1,0,0,0,0,N/A
+2958976,"July 4, 2024",Minnesota,Duluth,"N 1st Ave E and E 2nd St",0,1,0,0,1,N/A
+2957869,"July 3, 2024",Minnesota,Minneapolis,"2000 block of Elliot Ave",0,1,0,0,1,N/A
+2956494,"July 2, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2956912,"July 2, 2024",Minnesota,Anoka,"6th Ave and Jackson St",0,1,0,0,0,N/A
+2955734,"July 1, 2024",Minnesota,"Saint Paul","800 block of York Ave",1,0,0,0,1,N/A
+2954686,"June 30, 2024",Minnesota,Minneapolis,"13th Ave S and E 19th St",0,1,0,0,0,N/A
+2955446,"June 30, 2024",Minnesota,Crookston,"220 E 3rd St",0,0,1,0,0,N/A
+2955671,"June 29, 2024",Minnesota,"Minneapolis (Brooklyn Park)","8508 63rd Ave N",0,1,0,0,0,N/A
+2953471,"June 29, 2024",Minnesota,Lakeville,"9800 217th St W",1,0,0,0,1,N/A
+2953924,"June 29, 2024",Minnesota,Minneapolis,"2700 block of Bloomington Ave",0,1,0,0,0,N/A
+2953920,"June 29, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2952885,"June 28, 2024",Minnesota,Minneapolis,"E Franklin Ave and Chicago Ave",0,1,0,0,0,N/A
+2953474,"June 28, 2024",Minnesota,Minneapolis,"3500 block of N Penn Ave",1,0,0,0,1,N/A
+2952162,"June 27, 2024",Minnesota,Minneapolis,"N 26th Ave and N Irving Ave",0,1,0,0,0,N/A
+2952347,"June 27, 2024",Minnesota,"North Branch","3rd Ave and Elm St",0,0,1,0,0,N/A
+2952538,"June 27, 2024",Minnesota,Rochester,"124 Sandbar Ct NE",1,0,1,0,0,N/A
+2951106,"June 26, 2024",Minnesota,"Minneapolis (Golden Valley)","1301 Theodore Wirth Pkwy",0,1,0,0,0,N/A
+2951024,"June 25, 2024",Minnesota,Elgin,N/A,0,1,0,0,0,N/A
+2950290,"June 24, 2024",Minnesota,Hibbing,"3500 block of MN-73",0,1,0,0,0,N/A
+2949482,"June 24, 2024",Minnesota,"Saint Paul","Hazel St N and Stillwater Ave E",1,0,0,0,1,N/A
+2948909,"June 24, 2024",Minnesota,Minneapolis,"3500 block of N Penn Ave",0,1,0,0,0,N/A
+2948275,"June 23, 2024",Minnesota,Minneapolis,"2900 block of 15th Ave S",0,1,0,0,0,N/A
+2948273,"June 23, 2024",Minnesota,Minneapolis,"N Dowling Ave and Fremont Ave N",0,1,0,0,0,N/A
+2948126,"June 23, 2024",Minnesota,"Minneapolis (Brooklyn Park)","8700 block of Queens Garden N",0,0,0,1,0,N/A
+2946955,"June 22, 2024",Minnesota,Minneapolis,"111 Marquette Ave",0,1,0,0,1,N/A
+2946624,"June 20, 2024",Minnesota,"Saint Paul","7th St E and Payne Ave",0,1,0,0,0,N/A
+2943328,"June 18, 2024",Minnesota,Minneapolis,"Hiawatha Ave and E Franklin Ave",0,1,0,0,0,N/A
+2942975,"June 18, 2024",Minnesota,Minneapolis,"1200 block of Hawthorne Ave",0,1,0,0,0,N/A
+2943265,"June 17, 2024",Minnesota,Minneapolis,"3400 block of N Logan Ave",0,1,0,0,0,N/A
+2940375,"June 15, 2024",Minnesota,Minneapolis,"2100 block of E Franklin Ave",0,1,0,0,0,N/A
+2940381,"June 15, 2024",Minnesota,Minneapolis,"2800 block of Park Ave",0,1,0,0,0,N/A
+2945417,"June 14, 2024",Minnesota,Milaca,"500 block of 5th St SE",1,0,0,0,0,N/A
+2937772,"June 12, 2024",Minnesota,"Saint Paul","800 block of Maryland Ave E",1,0,0,0,0,N/A
+2938980,"June 12, 2024",Minnesota,Minneapolis,"3400 block of Hiawatha Ave",0,0,1,0,0,N/A
+2936921,"June 11, 2024",Minnesota,Minneapolis,"E Grant St and Nicollet Ave",0,1,0,0,0,N/A
+2971848,"June 10, 2024",Minnesota,"Saint Paul","554 Central Ave W",0,1,0,0,1,N/A
+2936372,"June 10, 2024",Minnesota,"Saint Paul","Milford St and Albemarle St",0,1,0,0,0,N/A
+2935621,"June 9, 2024",Minnesota,Minneapolis,"1301 Como Ave SE",0,1,0,0,0,N/A
+2935587,"June 9, 2024",Minnesota,Minneapolis,"E 28th St and Columbus Ave",0,1,0,0,0,N/A
+2934849,"June 8, 2024",Minnesota,Minneapolis,"615 SE Washington Ave",0,1,0,0,0,N/A
+2934854,"June 7, 2024",Minnesota,"Saint Paul","University Ave and Farrington St",0,1,0,0,0,N/A
+2933662,"June 6, 2024",Minnesota,Minneapolis,"E 28th St and Columbus Ave S",0,1,0,0,0,N/A
+2932934,"June 6, 2024",Minnesota,"Osseo (Corcoran)","Cherry Ln and Mystique Dr",0,0,0,1,1,N/A
+2931982,"June 5, 2024",Minnesota,Minneapolis,"Lowry Ave N",0,1,0,0,0,N/A
+2936521,"June 5, 2024",Minnesota,Burnsville,"13800 Echo Park Ln",1,0,1,0,0,N/A
+2931360,"June 4, 2024",Minnesota,Minneapolis,"1100 block of Norton St",0,1,0,0,0,N/A
+2930904,"June 4, 2024",Minnesota,Minneapolis,"2900 block of Park Ave S",0,1,0,0,0,N/A
+2929093,"June 2, 2024",Minnesota,Minneapolis,"3000 block of 16th Ave S",0,1,0,0,0,N/A
+2929044,"June 2, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2928318,"June 1, 2024",Minnesota,Minneapolis,"3534 N Penn Ave",1,0,0,0,0,N/A
+2929111,"June 1, 2024",Minnesota,Minneapolis,"Lowry Ave N and N Penn Ave",0,1,0,0,0,N/A
+2929107,"June 1, 2024",Minnesota,Minneapolis,"N 33rd Ave and Dupont Ave N",0,1,0,0,0,N/A
+2928026,"June 1, 2024",Minnesota,Minneapolis,"34th Ave N and N Knox Ave",1,0,0,0,0,N/A
+2927188,"May 31, 2024",Minnesota,Minneapolis,"1 Portland Ave",1,0,0,0,0,N/A
+2925929,"May 30, 2024",Minnesota,Minneapolis,"2221 Blaisdell Ave",3,3,1,0,0,N/A
+2925968,"May 30, 2024",Minnesota,"Saint Paul","800 block of Simcoe St",1,0,0,0,1,N/A
+2925925,"May 29, 2024",Minnesota,"Minneapolis (Brooklyn Park)","Brooklyn Blvd and W Broadway",0,1,0,0,0,N/A
+2923578,"May 28, 2024",Minnesota,Minneapolis,"400 block of N 23rd Ave",1,0,0,0,1,N/A
+2921860,"May 26, 2024",Minnesota,Rochester,"800 block of Homestead Village Ln SE",0,1,0,0,0,N/A
+2921785,"May 26, 2024",Minnesota,"Saint Paul","2595 Crosby Farm Rd",0,3,0,0,0,N/A
+2922634,"May 26, 2024",Minnesota,"Saint Paul","1700 block of Rose Ave E",0,3,0,0,0,N/A
+2924477,"May 26, 2024",Minnesota,Willmar,"700 block of 4th St SE",0,1,0,0,0,N/A
+2920878,"May 25, 2024",Minnesota,Minneapolis,"4th St NE and 20th Ave NE",0,1,0,0,0,N/A
+2921811,"May 25, 2024",Minnesota,"Saint Paul","1000 block of Fuller Ave N",0,1,0,0,0,N/A
+2920899,"May 25, 2024",Minnesota,Minneapolis,"S 3rd St and Nicollet Mall",0,1,0,0,0,N/A
+2921097,"May 25, 2024",Minnesota,"Saint Paul (North Saint Paul)","2039 17th Ave E",0,4,0,0,0,N/A
+2920901,"May 24, 2024",Minnesota,Minneapolis,"2800 block of Fremont Ave N",0,1,0,0,0,N/A
+2918987,"May 22, 2024",Minnesota,Minneapolis,"3100 block of NE Columbia Ave",0,1,0,0,0,N/A
+2916280,"May 21, 2024",Minnesota,Minneapolis,"Lake St W and Blaisdell Ave",0,1,0,0,0,N/A
+2915677,"May 20, 2024",Minnesota,Minneapolis,"Lyndale Ave S and Dunwoody Blvd",0,1,0,0,0,N/A
+2917977,"May 20, 2024",Minnesota,"Red Wing","2451 Eagle Ridge Dr",0,0,0,0,0,N/A
+2915242,"May 19, 2024",Minnesota,Minneapolis,"16th Ave S and E 28th St",0,1,0,0,0,N/A
+2915230,"May 19, 2024",Minnesota,Minneapolis,"2900 block of 18th Avenue S",1,1,0,0,1,N/A
+2914346,"May 18, 2024",Minnesota,Minneapolis,"E Franklin Ave and Hiawatha Ave",0,1,0,0,0,N/A
+2914321,"May 18, 2024",Minnesota,Minneapolis,"I-94 and W Broadway",0,2,0,0,0,N/A
+2913636,"May 17, 2024",Minnesota,"Saint Paul","616 University Ave W",1,0,0,0,3,N/A
+2913630,"May 17, 2024",Minnesota,"Minneapolis (Coon Rapids)","2975 Coon Rapids Blvd NW",0,1,0,0,0,N/A
+2912806,"May 17, 2024",Minnesota,Minneapolis,"2215 N 5th Ave",1,0,0,0,1,N/A
+2911809,"May 16, 2024",Minnesota,Minneapolis,"1100 block of N Morgan Ave",1,0,0,0,1,N/A
+2911811,"May 16, 2024",Minnesota,Minneapolis,"100 W Lake St",1,0,0,0,2,N/A
+2911800,"May 16, 2024",Minnesota,Crookston,"N Broadway and E 7th St",0,0,1,0,0,N/A
+2907575,"May 12, 2024",Minnesota,Minneapolis,"3600 block of Elliot Ave",0,1,0,0,0,N/A
+2907395,"May 12, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2907986,"May 12, 2024",Minnesota,"Minneapolis (Brooklyn Park)","6600 block of 67th Ave N",0,1,0,0,0,N/A
+2905892,"May 10, 2024",Minnesota,Minneapolis,"2700 block of Chicago Ave",0,1,0,0,0,N/A
+2906600,"May 10, 2024",Minnesota,Minneapolis,"600 block of 5th Ave S",0,2,0,0,0,N/A
+2905681,"May 9, 2024",Minnesota,Minneapolis,"N Irving Ave and N 30th Ave",0,2,0,0,0,N/A
+2905727,"May 9, 2024",Minnesota,"Saint Paul","1177 Clarence St",0,1,0,0,2,N/A
+2902722,"May 7, 2024",Minnesota,Minneapolis,"N 4th Ave and N Morgan Ave",0,1,0,0,0,N/A
+2903662,"May 7, 2024",Minnesota,"Saint Paul","1380 Magnolia Ave E",0,1,0,0,0,N/A
+2902760,"May 6, 2024",Minnesota,"Saint Paul","1100 block of Rose Ave E",0,0,1,0,0,N/A
+2901927,"May 6, 2024",Minnesota,Minneapolis,"3500 block of N Penn Ave",0,2,0,0,0,N/A
+2901132,"May 5, 2024",Minnesota,Minneapolis,"3807 Fremont Ave N",0,1,0,0,0,N/A
+2900850,"May 5, 2024",Minnesota,Minneapolis,"Hwy 55 and James Ave N",0,1,0,0,0,N/A
+2900632,"May 5, 2024",Minnesota,Minneapolis,"901 Cedar Ave S",1,0,0,1,2,N/A
+2900097,"May 4, 2024",Minnesota,Chanhassen,"7800 block of Harvest Ln",0,0,0,1,1,N/A
+2900848,"May 3, 2024",Minnesota,Minneapolis,"1800 block of N Irving Ave",0,1,0,0,0,N/A
+2898665,"May 2, 2024",Minnesota,Minneapolis,"E Franklin Ave and Chicago Ave",0,1,0,0,0,N/A
+2893203,"April 27, 2024",Minnesota,Minneapolis,"W 28th St and Blaisdell Ave",0,1,0,0,1,N/A
+2892262,"April 26, 2024",Minnesota,Minneapolis,"2900 block of Pleasant Ave S",0,2,0,0,0,N/A
+2892050,"April 26, 2024",Minnesota,"Minneapolis (Coon Rapids)","8950 Springbrook Dr NW",0,1,0,0,0,N/A
+2891244,"April 26, 2024",Minnesota,Minneapolis,"2636 University Ave NE",1,0,0,0,1,N/A
+2891276,"April 25, 2024",Minnesota,"Saint Louis Park","2500 block of Nevada Ave",0,1,0,0,0,N/A
+2889504,"April 24, 2024",Minnesota,Minneapolis,"1900 block of Upton Ave N",0,2,0,0,0,N/A
+2893911,"April 23, 2024",Minnesota,"Saint Paul (Lino Lakes)","2219 Tart Lake Rd",1,0,1,0,0,N/A
+2887355,"April 22, 2024",Minnesota,Minneapolis,"14th Ave N",0,2,0,0,0,N/A
+2887143,"April 22, 2024",Minnesota,"Saint Paul (Woodbury)","7200 Valley Creek Plaza",0,0,0,1,1,N/A
+2886858,"April 21, 2024",Minnesota,"Minneapolis (Crystal)",N/A,0,1,0,0,0,N/A
+2884590,"April 18, 2024",Minnesota,Minneapolis,"2200 block of Golden Valley Rd",0,1,0,0,1,N/A
+2881460,"April 16, 2024",Minnesota,"Minneapolis (Robbinsdale)","4400 block of W Broadway",1,0,0,0,0,N/A
+2880645,"April 15, 2024",Minnesota,Montrose,"631 Nelson Blvd",0,0,0,1,1,N/A
+2885569,"April 15, 2024",Minnesota,Mankato,"1400 block of Eastport Dr",0,1,0,0,0,N/A
+2880161,"April 14, 2024",Minnesota,Minneapolis,"1818 Lowry Ave N",0,3,0,0,2,N/A
+2880613,"April 14, 2024",Minnesota,"Cannon Falls","32021 County 24 Blvd",0,0,1,0,0,N/A
+2879737,"April 14, 2024",Minnesota,"Saint Cloud","1000 9th Ave S",0,2,0,0,1,N/A
+2878968,"April 13, 2024",Minnesota,Minneapolis,"Fremont Ave N and N 44th Ave",0,2,0,0,0,N/A
+2878964,"April 13, 2024",Minnesota,Minneapolis,"5th Ave S and E Lake St",0,1,0,0,0,N/A
+2878023,"April 12, 2024",Minnesota,"Saint Paul (Woodbury)","2500 block of Cobble Hill Ct",0,1,0,0,0,N/A
+2878695,"April 12, 2024",Minnesota,Minneapolis,"3601 Penn Ave N",1,0,0,0,0,N/A
+2880655,"April 12, 2024",Minnesota,Chanhassen,"8100 Audubon Rd",1,0,1,0,0,N/A
+2877332,"April 11, 2024",Minnesota,"Saint Paul","University Ave and Dale St",0,1,0,0,0,N/A
+2877206,"April 11, 2024",Minnesota,Minneapolis,"Glenwood Ave and Cedar Lake Rd N",1,0,0,0,0,N/A
+2876368,"April 10, 2024",Minnesota,Minneapolis,"3000 block of N Irving Ave",0,1,0,0,0,N/A
+2875960,"April 10, 2024",Minnesota,Minnetonka,"13419 E Crestwood Dr",0,2,1,0,0,N/A
+2874926,"April 9, 2024",Minnesota,"Minneapolis (Coon Rapids)","10400 block of Osage St NW",0,1,0,0,0,N/A
+2874025,"April 8, 2024",Minnesota,"Anoka (Ramsey)","17955 Roanoke St NW",2,0,1,0,0,N/A
+2874034,"April 8, 2024",Minnesota,Minneapolis,"E 29th St and Portland Ave S",1,0,0,0,0,N/A
+2873429,"April 7, 2024",Minnesota,"Minneapolis (Golden Valley)","151 Louisiana Ave N",0,3,0,0,0,N/A
+2873502,"April 6, 2024",Minnesota,"Saint Paul","1400 block of Case Ave E",0,1,0,0,0,N/A
+2872246,"April 5, 2024",Minnesota,Minneapolis,"818 Russell Ave N",1,0,0,1,1,N/A
+2872296,"April 5, 2024",Minnesota,Minneapolis,"1700 block of Glenwood Ave",1,0,0,0,1,N/A
+2872417,"April 5, 2024",Minnesota,Minneapolis,"4200 block of Penn Ave N",0,1,0,0,0,N/A
+2871396,"April 4, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2869921,"April 3, 2024",Minnesota,"Saint Paul","Lafond Ave and Grotto St N",1,0,0,0,0,N/A
+2871278,"April 3, 2024",Minnesota,"Saint Cloud","600 block of Wilson Ave NE",0,1,1,0,0,N/A
+2869041,"April 2, 2024",Minnesota,Burnsville,"600 State Hwy 13",0,0,0,0,1,N/A
+2868954,"April 1, 2024",Minnesota,"Saint Paul","1940 Marshall Ave",1,0,0,0,1,N/A
+2866529,"March 30, 2024",Minnesota,Burnsville,"15025 Greenhaven Dr",0,1,0,0,1,N/A
+2866518,"March 29, 2024",Minnesota,"Saint Paul","846 Pierce Butler Rte",0,1,0,0,1,N/A
+2866634,"March 29, 2024",Minnesota,"Minneapolis (Brooklyn Park)","6900 block of 90th Ave N",0,1,0,0,0,N/A
+2864863,"March 28, 2024",Minnesota,Minneapolis,"1800 block of Nicollet Ave",0,1,0,0,0,N/A
+2864742,"March 27, 2024",Minnesota,"Minneapolis (Blaine)","10700 block of Town Square Dr NE",1,0,1,0,0,N/A
+2861377,"March 24, 2024",Minnesota,Minneapolis,"300 block of 22nd Ave NE",0,2,0,0,0,N/A
+2860812,"March 23, 2024",Minnesota,Minneapolis,"307 Washington Ave N",0,1,0,0,0,N/A
+2861388,"March 23, 2024",Minnesota,"Saint Paul (North Saint Paul)","2300 block of Shawnee Dr",0,1,0,0,1,N/A
+2860869,"March 23, 2024",Minnesota,Minneapolis,"E 42nd St and 4th Ave S",0,1,0,0,0,N/A
+2858229,"March 20, 2024",Minnesota,Minneapolis,"5300 block of 27th Ave S",0,1,0,0,0,N/A
+2856749,"March 18, 2024",Minnesota,Minneapolis,"2310 E Lake St",0,1,0,0,0,N/A
+2855550,"March 17, 2024",Minnesota,Minneapolis,"2900 block of Fremont Ave S",0,1,0,0,0,N/A
+2857134,"March 17, 2024",Minnesota,"Saint Paul","1177 Clarence St",0,1,0,0,3,N/A
+2854005,"March 15, 2024",Minnesota,Minneapolis,"4121 Chicago Ave",1,0,0,0,0,N/A
+2853902,"March 14, 2024",Minnesota,"Saint Paul","1300 block of Wilson Ave",1,0,0,0,0,N/A
+2853295,"March 14, 2024",Minnesota,"Saint Paul (New Brighton)","327 Old Hwy 8 NW",0,1,0,0,1,N/A
+2851787,"March 12, 2024",Minnesota,"Saint Paul","5th St E and Cedar St",0,1,0,0,1,N/A
+2850563,"March 11, 2024",Minnesota,"Saint Paul","1171 Westminster St",0,1,0,0,1,N/A
+2849518,"March 10, 2024",Minnesota,Minneapolis,"700 block of Queen Ave N",0,1,0,0,0,N/A
+2849499,"March 10, 2024",Minnesota,Minneapolis,"626 W Lake St",0,3,0,0,0,N/A
+2848635,"March 8, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2848633,"March 8, 2024",Minnesota,Minneapolis,"17th Ave NE",0,1,0,0,0,N/A
+2846834,"March 6, 2024",Minnesota,Minneapolis,"5th Ave S and E Franklin Ave",0,1,0,0,0,N/A
+2847662,"March 4, 2024",Minnesota,"Prior Lake","6800 block of Century Ln",1,0,0,0,1,N/A
+2845530,"March 4, 2024",Minnesota,"Saint Paul","700 block of Magnolia Ave",0,1,0,0,0,N/A
+2843820,"March 3, 2024",Minnesota,Minneapolis,"E Lake St and Bloomington Ave",1,0,0,0,0,N/A
+2937071,"March 3, 2024",Minnesota,Perham,N/A,0,1,0,0,0,N/A
+2843823,"March 2, 2024",Minnesota,"Minneapolis (Brooklyn Park)","5849 73rd Ave N",0,1,0,0,0,N/A
+2843176,"March 2, 2024",Minnesota,"Saint Michael","Grand Ave NE and 4th Ave",0,0,1,0,0,N/A
+2843174,"March 1, 2024",Minnesota,"Saint Paul","900 block of Euclid St",0,1,0,0,1,N/A
+2841568,"February 29, 2024",Minnesota,Minneapolis,"39th Ave N and N Sheridan Ave",1,0,0,0,0,N/A
+2840340,"February 28, 2024",Minnesota,Minneapolis,"2636 University Ave NE",0,2,0,0,2,N/A
+2839362,"February 27, 2024",Minnesota,Minneapolis,"E Franklin Ave and Elliot Ave",1,3,0,0,3,N/A
+2839299,"February 26, 2024",Minnesota,Minneapolis,"1300 block of W Lake St",0,1,0,0,0,N/A
+2838941,"February 26, 2024",Minnesota,Minneapolis,"2500 block of Ogema Pl",0,1,0,0,0,N/A
+2837847,"February 25, 2024",Minnesota,Minneapolis,"1400 block of N Thomas Ave",0,1,0,0,0,N/A
+2837979,"February 24, 2024",Minnesota,"Minneapolis (Blaine)","MN-610 and University Ave NE",0,1,0,0,0,N/A
+2837240,"February 24, 2024",Minnesota,Minneapolis,"3600 block of Penn Ave N",0,1,0,0,0,N/A
+2840620,"February 24, 2024",Minnesota,Mankato,"MN-22 and Christa View Dr",0,1,0,0,0,N/A
+2836041,"February 22, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2836521,"February 22, 2024",Minnesota,"Minneapolis (Brooklyn Park)","5550 69th Ave N",0,1,0,0,0,N/A
+2835148,"February 21, 2024",Minnesota,Minneapolis,"16th Ave S and E Lake St",0,2,0,0,1,N/A
+2833490,"February 19, 2024",Minnesota,Minneapolis,"E Lake St and Hiawatha Ave",0,1,0,0,0,N/A
+2833365,"February 19, 2024",Minnesota,Minneapolis,"328 W Broadway Ave",0,1,0,0,1,N/A
+2833357,"February 19, 2024",Minnesota,"Minneapolis (Brooklyn Park)","5825 74th Ave N",1,0,0,0,1,N/A
+2832334,"February 18, 2024",Minnesota,Burnsville,"12605 33rd Ave",3,1,1,0,0,N/A
+2833403,"February 18, 2024",Minnesota,"Elbow Lake","324 10th Ave",0,0,1,0,0,N/A
+2831944,"February 16, 2024",Minnesota,Minneapolis,"1506 Park Ave",1,0,0,0,0,N/A
+2830800,"February 15, 2024",Minnesota,Mankato,"S 4th St and E Walnut St",1,0,0,0,1,N/A
+2828431,"February 14, 2024",Minnesota,Minneapolis,"W Broadway and Emerson Ave N",1,0,0,0,1,N/A
+2827706,"February 12, 2024",Minnesota,"Minneapolis (Brooklyn Park)","5521 Brookdale Dr N",0,1,0,0,0,N/A
+2827029,"February 12, 2024",Minnesota,"Saint Paul","275 Lexington Pkwy N",0,0,0,0,1,N/A
+2827348,"February 12, 2024",Minnesota,Minneapolis,"2549 Lyndale Ave S",0,1,0,0,0,N/A
+2826010,"February 11, 2024",Minnesota,"Minneapolis (New Hope)","8100 block of 36th Ave N",0,1,0,0,0,N/A
+2825009,"February 10, 2024",Minnesota,"Saint Paul","800 block of N Western Ave",1,0,0,0,1,N/A
+2825809,"February 10, 2024",Minnesota,Minneapolis,"3500 block of N Logan Ave",0,1,0,0,0,N/A
+2824944,"February 10, 2024",Minnesota,Minneapolis,"Cedar Ave S and 3rd St S",0,1,0,0,0,N/A
+2825814,"February 10, 2024",Minnesota,"Saint Paul","345 Wabasha St N",0,1,0,0,0,N/A
+2824386,"February 9, 2024",Minnesota,Minneapolis,"400 block of SE 7th Ave",0,0,0,1,0,N/A
+2824384,"February 9, 2024",Minnesota,Minneapolis,"2406 Golden Valley Rd",0,1,1,0,1,N/A
+2821366,"February 6, 2024",Minnesota,Minneapolis,"2000 block of Pillsbury Ave",0,1,0,0,0,N/A
+2821362,"February 5, 2024",Minnesota,Minneapolis,"2600 W Broadway",1,0,0,0,1,N/A
+2819573,"February 4, 2024",Minnesota,Willmar,"300 block of 4th St SW",0,0,0,1,1,N/A
+2819166,"February 3, 2024",Minnesota,Rochester,"1201 Broadway Ave S",1,0,0,0,1,N/A
+2819045,"February 3, 2024",Minnesota,Minneapolis,"3800 block of 39th St E",0,2,1,0,0,N/A
+2819598,"February 3, 2024",Minnesota,"Saint Paul","E 12th St and Robert St N",0,1,0,0,0,N/A
+2818545,"February 2, 2024",Minnesota,Minneapolis,"2000 block of 34th Ave S",0,1,0,0,0,N/A
+2815418,"January 30, 2024",Minnesota,Minneapolis,"3500 block of N 4th St",0,1,0,0,0,N/A
+2815001,"January 30, 2024",Minnesota,"Minneapolis (Brooklyn Park)","9000 Brooklyn Blvd",0,0,0,0,1,N/A
+2814070,"January 29, 2024",Minnesota,Minneapolis,"14th Ave S and E 26th St",0,1,0,0,0,N/A
+2813397,"January 28, 2024",Minnesota,Minneapolis,"1800 block of S 5th St",0,1,0,0,1,N/A
+2813370,"January 28, 2024",Minnesota,Minneapolis,"3700 block of Dupont Ave N",0,1,0,0,0,N/A
+2813389,"January 28, 2024",Minnesota,Minneapolis,"W 29th St and Hennepin Ave",0,1,0,0,0,N/A
+2813392,"January 28, 2024",Minnesota,Minneapolis,N/A,0,1,0,0,0,N/A
+2813480,"January 27, 2024",Minnesota,"Minneapolis (Brooklyn Park)","Kyle Ave N and Brookdale Dr N",0,1,0,0,0,N/A
+2812017,"January 26, 2024",Minnesota,"Minneapolis (Coon Rapids)","212 94th Ave NW",3,0,0,0,3,N/A
+2810870,"January 24, 2024",Minnesota,Minneapolis,"2024 N Washington Ave",1,0,0,0,0,N/A
+2807536,"January 21, 2024",Minnesota,Minneapolis,"3100 block of Pleasant Ave",0,1,0,0,0,N/A
+2807540,"January 21, 2024",Minnesota,Minneapolis,"2900 block of Dupont Ave N",0,1,0,0,0,N/A
+2807168,"January 20, 2024",Minnesota,Minneapolis,"1800 block of 14th Ave S",0,1,0,0,0,N/A
+2807161,"January 20, 2024",Minnesota,Minneapolis,"Lowry Ave N and Russell Ave N",0,1,0,0,0,N/A
+2806839,"January 19, 2024",Minnesota,"Minneapolis (Brooklyn Center)","5100 block of Xerxes Ave",0,1,0,0,0,N/A
+2804817,"January 18, 2024",Minnesota,"Saint Paul","780 W Wheelock Pkwy",0,0,0,1,1,N/A
+2803071,"January 16, 2024",Minnesota,"Saint Paul","1200 block of Herbert St",0,1,0,0,0,N/A
+2802624,"January 15, 2024",Minnesota,Minneapolis,"22 E 15th St",0,1,0,0,0,N/A
+2802229,"January 15, 2024",Minnesota,"Saint Paul","46 5th St E",0,1,0,0,1,N/A
+2802238,"January 15, 2024",Minnesota,Minneapolis,"1650 New Brighton Blvd",1,0,0,0,1,N/A
+2801498,"January 14, 2024",Minnesota,Minneapolis,"2700 block of N Queen Ave",0,1,0,0,0,N/A
+2801049,"January 13, 2024",Minnesota,Minneapolis,"2856 26th Ave S",0,1,0,0,0,N/A
+2799868,"January 11, 2024",Minnesota,Minneapolis,"2500 block of Cedar Ave S",0,2,0,0,0,N/A
+2797980,"January 9, 2024",Minnesota,"East Grand Forks","19100 block of 445th Ave SW",0,0,1,0,0,N/A
+2797358,"January 8, 2024",Minnesota,Cloquet,"121 Big Lake Rd",2,0,1,0,0,N/A
+2797141,"January 7, 2024",Minnesota,Minneapolis,"700 block of N 30th Ave",1,0,0,0,1,N/A
+2796502,"January 7, 2024",Minnesota,Minneapolis,"2024 N Washington Ave",0,1,0,0,2,N/A
+2795905,"January 6, 2024",Minnesota,"Saint Paul","400 block of Thomas Ave W",0,0,0,1,1,N/A
+2795251,"January 4, 2024",Minnesota,"Lake Benton","213 Center St S",1,0,1,0,0,N/A
+2794662,"January 3, 2024",Minnesota,"Saint Paul","University Ave W and Rice St",0,1,0,0,0,N/A
+2794670,"January 3, 2024",Minnesota,Minneapolis,"3400 block of Garfield Ave",0,1,0,0,0,N/A
+2793403,"January 3, 2024",Minnesota,Minneapolis,"700 block of 27th Ave S",0,1,0,0,0,N/A
+2794371,"January 3, 2024",Minnesota,Minneapolis,"900 block of N Oliver Ave",0,1,0,0,0,N/A
+2792574,"January 2, 2024",Minnesota,"Saint Paul","1000 block of Jessamine Ave E",0,1,0,0,0,N/A
+2802261,"January 1, 2024",Minnesota,"Saint Paul","1100 block of Payne Ave",0,2,0,0,0,N/A
+2792565,"January 1, 2024",Minnesota,"Eagle Lake","Terrace Dr and S Agency St",0,1,0,0,1,N/A
+2791368,"January 1, 2024",Minnesota,Minneapolis,"2300 block of N Bryant Ave",0,1,0,0,1,N/A
+2791755,"January 1, 2024",Minnesota,"Saint Paul","1600 block of Van Buren Ave",1,0,0,0,0,N/A
